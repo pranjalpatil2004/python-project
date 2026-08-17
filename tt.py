@@ -1,1 +1,1 @@
-print ("hello buddy v6")
+print ("hello buddy 86")
